@@ -8,8 +8,9 @@ __pycache__/
 
 .env
 
-models/
-outputs/
+# data/
+# models/
+# outputs/
 
 .vscode/
 .idea/
